@@ -109,30 +109,7 @@
       <a href="mailto:alikhan90340000@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4C4C" alt="Email" />
       </a>
-    </td>
-    <td align="center">
-     
-    </td>
-    <td align="center">
-     
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      
-    </td>
-    <td align="center">
-     
-    </td>
-    <td align="center">
-     
-    </td>
-  </tr>
-</table>
-
-
-<br>
-
+   
 
 
 
