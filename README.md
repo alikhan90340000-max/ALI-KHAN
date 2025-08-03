@@ -4,11 +4,7 @@
     Hi, I'm <span style="color:#F0DB4F;">ALI KHAN</span> 👋
   </h1>
 
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=30&duration=1800&pause=2000&color=FFC83D&width=435&height=65&lines=AI+Chatbot+Developer%F0%9F%A4%96;MERN+Stack+Developer;AI+Solutions+Provider%F0%9F%92%A1&center=true"
-      alt="Typing SVG"
-    />
-  </a>
+  
 
   <br />
 
@@ -110,36 +106,26 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="mailto:ayanimranayanahmed@gmail.com" target="_blank">
+      <a href="mailto:alikhan90340000@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF4C4C" alt="Email" />
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/ayan-imran-chatbot-dev/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-      </a>
+     
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/profile.php?id=100086730668877" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=1877F2" alt="Facebook" />
-      </a>
+     
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.instagram.com/ayanahmed3902/?hl=en" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
-      </a>
+      
     </td>
     <td align="center">
-      <a href="https://www.fiverr.com/ayan_programmar?up_rollout=true" target="_blank">
-        <img src="https://img.shields.io/badge/Fiverr-0D1117?style=for-the-badge&logo=fiverr&logoColor=1DBF73" alt="Fiverr" />
-      </a>
+     
     </td>
     <td align="center">
-      <a href="https://www.upwork.com/freelancers/~01a65595a1e91366c1" target="_blank">
-        <img src="https://img.shields.io/badge/Upwork-0D1117?style=for-the-badge&logo=upwork&logoColor=14A800" alt="Upwork" />
-      </a>
+     
     </td>
   </tr>
 </table>
@@ -148,26 +134,20 @@
 <br>
 
 
-<!-- 	 <a href="https://gitroll.io/profile/ug33n7MEbexO7H6OGTHOi9AR8P7a2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/ug33n7MEbexO7H6OGTHOi9AR8P7a2" alt="GitRoll Profile Badge"/></a> 
-																										<br><br> -->
+
 
 <!-- 🔝 Top Languages -->
 <h2 align="center">🧠 Top Languages</h2>
 <p align="center">
   <a href="#">
     <img alt="Top Languages" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYAN-IMRAN&theme=radical&hide_border=false&layout=compact&langs_count=8&border_radius=10&cache_seconds=1800" 
-         style="transform: scale(1); transition: transform 0.3s ease-in-out;" 
-         onmouseover="this.style.transform='scale(1.05)'" 
-         onmouseout="this.style.transform='scale(1)'" />
-  </a>
+        
 </p>
 
 <!-- 🚀 Top Contributed Repositories -->
 <h2 align="center">🚀 Top Contributed Repositories</h2>
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AYAN-IMRAN&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&animation=slide" alt="Top Contributions" />
-</p>
+ 
 
 <!-- 🧾 Profile Summary Card -->
 <h2 align="center">🧾 Profile Summary</h2>
@@ -178,28 +158,22 @@
 <!-- 📊 GitHub Stats and Streak with slight animated styling -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AYAN-IMRAN&theme=radical&hide_border=false&show_icons=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AYAN-IMRAN&theme=radical&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</p>
+
 
 <!-- 🏆 GitHub Trophies with zoom animation -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AYAN-IMRAN&theme=onedark&no-frame=true&no-bg=false&margin-w=10&row=1&column=7&animation=zoomIn" width="900" />
-</p>
+ 
 
 <!-- 📈 Contribution Graph -->
 <h2 align="center">📈 Contribution Activity</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AYAN-IMRAN&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+
 
 <!-- 🐍 Contribution Snake Animation -->
 <h2 align="center">🐍 Contribution Snake</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
+ 
 <!-- ✨ Footer Line -->
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
